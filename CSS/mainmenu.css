@@ -36,3 +36,8 @@ padding: 20px 0;
 #menu a:hover {
     background: #20B2AA;
 }
+.logo
+{
+    width: 50%;
+    height: 50%;
+}

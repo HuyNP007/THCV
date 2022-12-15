@@ -1,0 +1,22 @@
+#content
+{
+    border: solid 1px; 
+    padding: 20px;
+    background: #89c837;
+    border-radius: 15px;
+}
+body
+{
+    background-color: #ffffcc; 
+}
+.container
+{
+    font-size: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.heading
+{
+    padding: 50px;
+    font-family: Arial, sans-serif; 
+}

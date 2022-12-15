@@ -1,4 +1,8 @@
-body { background-color:#fefdfb; color: #555; font-family: Arial, sans-serif; font-size: 93%; font-weight:normal; }
+body { background-color:#fefdfb; 
+    color: #555; 
+    font-family: Arial, sans-serif; 
+    font-size: 93%; 
+    font-weight:normal; }
 
 .mySlides {display:none;}
 
